@@ -1,0 +1,5 @@
+{
+    "PORT" : 9999,
+    "DB_URL": "mongodb+srv://admin:saraav123@techheralds.fmhjw.mongodb.net/site-monitor-app?retryWrites=true&w=majority",
+    "FIREBASE_DATABASE_URL": "https://site-monitor-app-default-rtdb.firebaseio.com/"
+}

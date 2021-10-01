@@ -1,0 +1,21 @@
+{
+  "name": "site-monitor-app-services",
+  "version": "1.0.0",
+  "description": "Services allow to manage the various entities for monitoring the site such as Camera Devices, Site locations and video content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.12.0",
+    "mongoose": "^6.0.8",
+    "string": "^3.3.3",
+    "winston": "^3.3.3"
+  }
+}
